@@ -49,7 +49,7 @@ This project demonstrates practical implementations of **fundamental and interme
 
 ---
 
-## **🛠 Technologies & Tools**
+## ** Technologies & Tools**
 
 - **Java**
 - **IntelliJ IDEA**
