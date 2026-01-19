@@ -5,13 +5,13 @@ The focus is on hands-on learning and understanding key programming principles.
 
 ---
 
-## **📚 Overview**
+## Overview**
 
 This project demonstrates practical implementations of **fundamental and intermediate Java concepts**, including object-oriented programming, multithreading, design patterns, data structures, file handling, exception handling, HTTP API communication, and database connectivity using PostgreSQL. Each module is independent and designed for learning purposes.
 
 ---
 
-## **🧩 Concepts Implemented**
+##  Concepts Implemented**
 
 **1. Core Java Concepts**
 - Classes and Objects
